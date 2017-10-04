@@ -1,4 +1,4 @@
-lmi_port: 443
+lmi_port: "{{ lmi_port }}"
 username: admin
 password: admin
 log_level: INFO
